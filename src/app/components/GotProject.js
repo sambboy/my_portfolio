@@ -1,10 +1,10 @@
 import React from 'react'
-import Arrow from './icons/Arrow'
-import Attachment from './icons/Attachment'
+import Arrow from './icons/Arrow.js'
+import Attachment from './icons/Attachment.js'
 
 function GotProject() {
   return (
-    <section className='bg-section1 pt-32 pb-40'>
+    <section id='#Contact' className='bg-section1 pt-32 pb-40'>
         <div className='container mx-auto'>
             <div className="grid grid-cols-2 gap-4">
                     <div className="">

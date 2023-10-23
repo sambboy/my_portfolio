@@ -1,8 +1,8 @@
 import React from 'react'
-import Arrow from './icons/Arrow'
+import Arrow from './icons/Arrow.js'
 function Project() {
   return (
-    <section className='bg-section2 ' id='#Contact'>
+    <section className='bg-section2 ' id='#Services'>
         <div className='container mx-auto pt-32 pb-44'>
             <div className="grid grid-cols-3 gap-4 items-center">
                     <div className="">

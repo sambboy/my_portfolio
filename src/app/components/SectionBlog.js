@@ -1,5 +1,5 @@
 import React from 'react'
-import Arrow from './icons/Arrow'
+import Arrow from './icons/Arrow.js'
 
 function SectionBlog() {
   return (

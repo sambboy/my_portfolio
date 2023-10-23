@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import Arrow from './icons/Arrow'
+import Arrow from './icons/Arrow.js'
 import Image from 'next/image'
 import Projet1 from '../img/projet-1.PNG'
 import Projet2 from '../img/projet-2.PNG'
@@ -8,7 +8,7 @@ import Projet3 from '../img/projet-3.PNG'
 
 function SectionProject() {
   return (
-    <section className='bg-section1 pt-14 pb-32'>
+    <section id='#Works' className='bg-section1 pt-14 pb-32'>
         <div className='container mx-auto'>
         <div className="grid grid-cols-2 gap-4">
             <div className="col-span">
