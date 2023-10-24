@@ -1,6 +1,6 @@
 import React , {useState} from 'react'
 import Image from 'next/image'
-import Quots from './icons/Quots.js'
+import Quots from './icons/Quots'
 import naruto from '../img/naruto.jpg'
 import ubito from '../img/ubito.png'
 import itatchi from '../img/itatchi.png'

@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import Arrow from './icons/Arrow.js'
+import Arrow from './icons/Arrow'
 import Image from 'next/image'
 import Projet1 from '../img/projet-1.PNG'
 import Projet2 from '../img/projet-2.PNG'

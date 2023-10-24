@@ -1,9 +1,9 @@
 import React from 'react'
 import Navbar from './Navbar'
-import Linkedin from './icons/Linkedin.js'
-import Github from './icons/Github.js'
-import Instegram from './icons/Instegram.js'
-import Arrow from './icons/Arrow.js'
+import Linkedin from './icons/Linkedin'
+import Github from './icons/Github'
+import Instegram from './icons/Instegram'
+import Arrow from './icons/Arrow'
 
 
 function Banner() {

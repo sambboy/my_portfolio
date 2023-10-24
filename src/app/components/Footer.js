@@ -1,8 +1,8 @@
 import React from 'react'
-import Logo from './icons/Logo.js'
-import Linkedin from './icons/Linkedin.js'
-import Github from './icons/Github.js'
-import Instegram from './icons/Instegram.js'
+import Logo from './icons/Logo'
+import Linkedin from './icons/Linkedin'
+import Github from './icons/Github'
+import Instegram from './icons/Instegram'
 
 function Footer() {
   return (

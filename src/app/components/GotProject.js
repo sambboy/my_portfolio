@@ -1,6 +1,6 @@
 import React from 'react'
-import Arrow from './icons/Arrow.js'
-import Attachment from './icons/Attachment.js'
+import Arrow from './icons/Arrow'
+import Attachment from './icons/Attachment'
 
 function GotProject() {
   return (

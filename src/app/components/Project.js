@@ -1,5 +1,5 @@
 import React from 'react'
-import Arrow from './icons/Arrow.js'
+import Arrow from './icons/Arrow'
 function Project() {
   return (
     <section className='bg-section2 ' id='#Services'>

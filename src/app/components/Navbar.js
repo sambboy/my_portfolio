@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Logo from './icons/Logo.js';
+import Logo from './icons/Logo';
 function Navbar() {
     const menu = [
         {
