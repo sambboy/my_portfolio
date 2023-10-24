@@ -18,7 +18,7 @@ function SectionBlog() {
                         <div className="text-text ">Feb 26.Blog</div>
                         <div className="col-span-2 text-white text-2xl font-bold flex justify-center">Let this be a lesson to you</div>
                         <div className="relative after:absolute after:top-[1.56rem] after:w-6 after:h-0.5
-                                    after:left-[7.40rem] after:bg-yellowOrange flex justify-end" >
+                                    after:left-[9.4rem] after:bg-yellowOrange flex justify-end" >
                             <Arrow className="text-yellowOrange" />
                         </div>
                         
@@ -27,7 +27,7 @@ function SectionBlog() {
                         <div className="text-text ">Feb 26.Blog</div>
                         <div className="col-span-2 text-white text-2xl font-bold flex justify-center">Let this be a lesson to you</div>
                         <div className="relative after:absolute after:top-[1.56rem] after:w-6 after:h-0.5
-                                    after:left-[7.40rem] after:bg-yellowOrange flex justify-end" >
+                                    after:left-[9.4rem] after:bg-yellowOrange flex justify-end" >
                             <Arrow className="text-yellowOrange" />
                         </div>
                     </div>
@@ -35,7 +35,7 @@ function SectionBlog() {
                         <div className="text-text ">Feb 26.Blog</div>
                         <div className="col-span-2 text-white text-2xl font-bold flex justify-center">Let this be a lesson to you</div>
                         <div className="relative after:absolute after:top-[1.56rem] after:w-6 after:h-0.5
-                                    after:left-[7.40rem] after:bg-yellowOrange flex justify-end" >
+                                    after:left-[9.4rem] after:bg-yellowOrange flex justify-end" >
                             <Arrow className="text-yellowOrange" />
                         </div>
                     </div>   
