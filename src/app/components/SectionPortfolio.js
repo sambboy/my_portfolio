@@ -1,6 +1,6 @@
 import React from 'react'
 import Box from './icons/Box'
-import Pen from './icons/Pen'
+import Pene from './icons/Pend'
 import Tv from './icons/Tv'
 import Image from 'next/image'
 import Imag1 from '../img/company1.png'
@@ -25,7 +25,7 @@ function SectionPortfolio() {
                 </div>
             </div>
             <div className='box-border pb-12 pt-40 p-4 bg-boxesdefault flex items-center justify-center  gap-8 group  hover:bg-yellowOrange'>
-                <Pen  className='text-white ml-5' />
+                <Pene  className='text-white ml-5' />
                 <div>
                     <h2 className='text-5xl text-white pt-16 mb-2'>
                         Branding Disigner
